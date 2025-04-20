@@ -1,0 +1,9 @@
+Cython==3.0.12
+future==1.0.0
+lxml==5.3.2
+MAVProxy==1.8.71
+numpy==1.24.4
+pkg_resources==0.0.0
+pymavlink==2.4.43
+pynmeagps==1.0.42
+pyserial==3.5
